@@ -24,11 +24,11 @@ pkg install git nodejs ffmpeg imagemagick -y
 ```
 
 ```bash
-git clone https://github.com/El-brayan502/NagiBotV3
+git https://github.com/criss76-ship-it/NAGI-BOThttps://github.com/criss76-ship-it/NAGI-BOT
 ```
 
 ```bash
-cd NagiBotV3
+cd NAGI-BOT
 ```
 
 ```bash
@@ -46,4 +46,4 @@ npm start
 | Rol         | Nombre        |
 |-------------|---------------|
 | Autor       | 𝕿𝗁᤻𝗲 𝐊̸𝗲᤻𝘃̶᤻ɪ֟፝𝗻ּּ   |
-| Colaborador | DuarteXV    |
+| Colaborador | HOLA    |
